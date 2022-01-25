@@ -28,27 +28,70 @@ para as aulas de Web II.**
 ### Instalação
 
 **Python:**
-- Abrir o terminal
-- Digitar: sudo apt-get install python3
-- Aguardar a instalação finalizar
+1. Abrir o terminal
+2. Digitar: sudo apt-get install python3
+3. Aguardar a instalação finalizar
 
 **Versão:** python3 20.3.1
 
 
 
 **Pip:**
-- Abrir o terminal
-- Digitar: sudo apt-get install python3-pip
-- Aguardar a instalação finalizar
+1. Abrir o terminal
+2. Digitar: sudo apt-get install python3-pip
+3. Aguardar a instalação finalizar
 
 **Versão:** python3-pip 20.3.1
 
 
 
 **Git:**
-- Abrir o terminal
-- Digitar: sudo apt-get install git-all
-- Aguardar a instalação finalizar
+1. Abrir o terminal
+2. Digitar: sudo apt-get install git-all
+3. Aguardar a instalação finalizar
 
 **Versão:** ???
+
+
+
+**SQLite:**
+1. A primeira coisa que devemos fazer é preparar o sistema operacional com os pacotes necessários para a compilação e construção dos pacotes a partir do código fonte. Ciente disso, abra um terminal (use as teclas CTRL + ALT + T);
+2. Primeiramente, instale os softwares necessários à instalação;
+sudo apt-get install build-essential tar wget
+3. Em sequida baixe o código fonte do programa nesse endereço e salve-o como sqlite.tar.gz, ou use o comando abaixo;
+wget -c https://www.sqlite.org/2021/sqlite-autoconf-3360000.tar.gz -O sqlite.tar.gz
+4. Crie uma pasta para SQLite e acesse-a;
+mkdir sqlite3 && cd sqlite3
+5. Em seguida, descompacte o arquivo nesta pasta;
+tar xvfz ../sqlite.tar.gz
+6. Acesse a pasta gerada pela descompactação;
+cd sqlite-autoconf-*/
+7. E configure o código para iniciar a compilação;
+./configure
+8. Compile o SQLite com o comando make;
+make
+9. E, finalmente, instale-o;
+sudo make install
+
+**Versão:** ???
+
+
+
+**SQLite browser:**
+1. Abrir terminal;
+2. Digitar o comando: sudo add-apt-repository universe (para ativar o repositório universal);
+3. Após ativar o repositório universal, usar o comando: sudo apt update (para atualizar as fontes de software do ubuntu);
+4. Depois de configurar e atualizar o repositório, agora use o comando: sudo apt install sqlitebrowser (para instalar o SQLite browser);
+
+**Versão:** ???
+
+
+
+---
+
+### Versão do Sistema Operacional:
+
+**Ubuntu 20.0.4**
+
+
 
