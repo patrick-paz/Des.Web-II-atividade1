@@ -32,7 +32,7 @@ para as aulas de Web II.**
 2. Digitar: sudo apt-get install python3
 3. Aguardar a instalação finalizar
 
-**Versão:** python3 20.3.1
+**Versão:** python3 3.8.10
 
 
 
@@ -41,7 +41,7 @@ para as aulas de Web II.**
 2. Digitar: sudo apt-get install python3-pip
 3. Aguardar a instalação finalizar
 
-**Versão:** python3-pip 20.3.1
+**Versão:** python3-pip 20.0.2
 
 
 
@@ -83,7 +83,7 @@ sudo make install
 3. Após ativar o repositório universal, usar o comando: sudo apt update (para atualizar as fontes de software do ubuntu);
 4. Depois de configurar e atualizar o repositório, agora use o comando: sudo apt install sqlitebrowser (para instalar o SQLite browser);
 
-**Versão:** ???
+**Versão:** 3.11.2.
 
 
 
@@ -91,7 +91,7 @@ sudo make install
 
 ### Versão do Sistema Operacional:
 
-**Ubuntu 20.0.4**
+**Ubuntu 20.04.3**
 
 
 
