@@ -31,6 +31,7 @@ para as aulas de Web II.**
 - Abrir o terminal
 - Digitar: sudo apt-get install python3
 - Aguardar a instalação finalizar
+
 **Versão:** python3 20.3.1
 
 
@@ -39,6 +40,7 @@ para as aulas de Web II.**
 - Abrir o terminal
 - Digitar: sudo apt-get install python3-pip
 - Aguardar a instalação finalizar
+
 **Versão:** python3-pip 20.3.1
 
 
@@ -47,5 +49,6 @@ para as aulas de Web II.**
 - Abrir o terminal
 - Digitar: sudo apt-get install git-all
 - Aguardar a instalação finalizar
+
 **Versão:** ???
 
