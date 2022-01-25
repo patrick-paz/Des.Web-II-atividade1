@@ -50,7 +50,7 @@ para as aulas de Web II.**
 2. Digitar: sudo apt-get install git-all
 3. Aguardar a instalação finalizar
 
-**Versão:** ???
+**Versão:** 2.25.1
 
 
 
@@ -73,7 +73,7 @@ make
 9. E, finalmente, instale-o;
 sudo make install
 
-**Versão:** ???
+**Versão:** 3.36.0
 
 
 
