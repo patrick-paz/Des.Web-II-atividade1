@@ -3,7 +3,7 @@
 **Atividade: Configuração do ambiente de desenvolvimento
 para as aulas de Web II.**
 
-## Ferramentas para Instalação (h3)
+### Ferramentas para Instalação
 - Python e Pip
 - Pycharm
 - Git
@@ -12,7 +12,7 @@ para as aulas de Web II.**
 
 ---
 
-## Descrição (h3)
+### Descrição
 
 **Python:** é uma linguagem Open-Source de propósito geral usado bastante em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. O Python roda no servidor, e é responsável por processar a lógica dos Inputs dos usuários, interagindo com bases de dados e outros servidores, etc.
 **Pip:** O PIP é uma ferramenta para gerenciamento de pacotes de software escrito em Python. E serve para instalar, remover, atualizar ou listar os pacotes instalados em um determinado projeto.
