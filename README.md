@@ -35,6 +35,7 @@ para as aulas de Web II.**
 **Versão:** python3 20.3.1
 
 --
+
 **Pip:**
 - Abrir o terminal
 - Digitar: sudo apt-get install python3-pip
@@ -43,6 +44,7 @@ para as aulas de Web II.**
 **Versão:** python3-pip 20.3.1
 
 --
+
 **Git:**
 - Abrir o terminal
 - Digitar: sudo apt-get install git-all
